@@ -1,5 +1,6 @@
 <h1 align="center">🪐 Welcome To My Profile ☄️</h1>
 <img src="https://cdn.discordapp.com/attachments/1295455896264245370/1319863462171643975/Capture_decran_2024-12-20_190108.png?ex=67678223&is=676630a3&hm=8a5045d24228edd6f201e9f96904f452de38a5014d719111dc802485ab09d43b&">
+<img src="https://cdn.discordapp.com/attachments/1295455896264245370/1319863462465110086/Capture_decran_2024-12-20_190130.png?ex=67678223&is=676630a3&hm=f0809cba16f880a11afee5c0e175b4523bfb6cede9f18122025f873218c6de39&">
 
 ```javascript
 export default class Client {
